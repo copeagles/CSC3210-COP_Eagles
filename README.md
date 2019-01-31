@@ -1,4 +1,4 @@
-# CSC3210---COP-Eagles
+# CSC3210-COP_Eagles
 
 ## Project A1
   ##   Team member:
