@@ -1,6 +1,6 @@
 # CSC3210-COP_Eagles
 
-## Project A1
+## Developing Soft and Parallel Programming Skills Using ProjectBased Learning
   ##   Team member:
   1. Malik Bottger
   2. Hiba Khan
